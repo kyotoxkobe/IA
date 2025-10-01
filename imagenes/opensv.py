@@ -21,3 +21,6 @@ cv.imshow('Gray', img2)
 cv.imshow('HSV', hsv)
 cv.waitKey(0)
 cv.destroyAllWindows()
+
+
+#VIDEO
