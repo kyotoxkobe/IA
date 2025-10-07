@@ -25,6 +25,8 @@ while True:
     cv.imshow('Result', result)
     # cv.imshow('RGB', rgb) #rgb
     # cv.imshow('Gray', gray) #gris
+    # pendiente dejar una estela por donde pasa el objeto de color rojo
+    
     if cv.waitKey(1) & 0xFF == ord('q'):
         break
 cap.release()
