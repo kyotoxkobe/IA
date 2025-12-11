@@ -1,0 +1,49 @@
+{"prompt": "¿Qué es un algoritmo?", "response": "Un algoritmo es un conjunto de pasos ordenados que permiten resolver un problema o realizar una tarea."}
+{"prompt": "Explícame qué es una variable.", "response": "Una variable es un espacio en memoria donde se almacena un valor que puede cambiar durante la ejecución de un programa."}
+{"prompt": "¿Qué es la lógica de programación?", "response": "La lógica de programación es el conjunto de reglas, pasos y estructuras que permiten crear programas que resuelvan problemas."}
+{"prompt": "¿Para qué sirve una condición if?", "response": "Una condición if sirve para ejecutar instrucciones solo cuando se cumple cierta condición lógica."}
+{"prompt": "¿Qué es un else?", "response": "Else se usa para ejecutar un bloque de código si la condición del if no se cumple."}
+{"prompt": "¿Qué es un bucle?", "response": "Un bucle es una estructura que repite un conjunto de instrucciones mientras se cumpla una condición."}
+{"prompt": "¿Qué es un bucle for?", "response": "El bucle for repite un bloque de código un número específico de veces."}
+{"prompt": "¿Qué es un bucle while?", "response": "El bucle while repite instrucciones mientras una condición sea verdadera."}
+{"prompt": "Dame un ejemplo de condición en la vida real.", "response": "Si llueve, entonces llevo paraguas; de lo contrario, no lo llevo."}
+{"prompt": "Explica qué es una lista.", "response": "Una lista es una colección ordenada de elementos que pueden ser consultados por su posición."}
+{"prompt": "¿Qué es un array?", "response": "Un array es una estructura de datos que almacena múltiples elementos del mismo tipo en posiciones consecutivas."}
+{"prompt": "¿Qué es la búsqueda lineal?", "response": "Es un algoritmo que revisa cada elemento de una lista uno por uno hasta encontrar el valor buscado."}
+{"prompt": "Dame un ejemplo de búsqueda lineal.", "response": "Para encontrar el número 8 en una lista, revisas el primer elemento, luego el segundo y así sucesivamente hasta hallar el 8."}
+{"prompt": "¿Qué es el algoritmo burbuja?", "response": "Es un algoritmo de ordenamiento que compara elementos adyacentes y los cambia de lugar si están desordenados."}
+{"prompt": "Ejemplo de ordenamiento burbuja.", "response": "Para ordenar [3,1,2], comparo 3 y 1, los cambio; luego 3 y 2, los cambio; repito hasta que todo quede ordenado."}
+{"prompt": "¿Qué es una estructura de control?", "response": "Son mecanismos que permiten decidir qué instrucciones ejecutar y en qué orden, como if, for y while."}
+{"prompt": "¿Qué es un algoritmo clásico?", "response": "Es un algoritmo ampliamente estudiado, como búsqueda, ordenamiento o recorrido de estructuras de datos."}
+{"prompt": "Dame un algoritmo para encontrar el número mayor.", "response": "Recorre la lista y guarda el número más grande encontrado hasta el momento; al final tendrás el mayor."}
+{"prompt": "¿Qué es un algoritmo de conteo?", "response": "Es un algoritmo que recorre una lista y cuenta cuántas veces aparece algo o cuántos elementos contiene."}
+{"prompt": "Ejemplo de algoritmo de conteo.", "response": "Para contar cuántos números hay en una lista, recorres cada elemento sumando 1 al contador."}
+{"prompt": "¿Qué es un algoritmo de búsqueda?", "response": "Un algoritmo de búsqueda sirve para localizar un elemento dentro de una estructura de datos."}
+{"prompt": "¿Qué es un algoritmo de ordenamiento?", "response": "Es un procedimiento para organizar elementos en una lista, usualmente de menor a mayor."}
+{"prompt": "¿Qué es la búsqueda binaria?", "response": "Es un algoritmo rápido que divide repetidamente una lista ordenada para encontrar un valor."}
+{"prompt": "Ejemplo de búsqueda binaria.", "response": "En una lista ordenada, compara el número buscado con el elemento central; si es menor, busca en la mitad izquierda; si es mayor, en la derecha."}
+{"prompt": "¿Qué es un diagrama de flujo?", "response": "Es una representación visual de un algoritmo usando símbolos que indican decisiones, procesos y caminos."}
+{"prompt": "¿Qué es pseudocódigo?", "response": "Es una forma de escribir algoritmos usando lenguaje natural estructurado, sin seguir la sintaxis de un lenguaje real."}
+{"prompt": "¿Para qué sirve el pseudocódigo?", "response": "Ayuda a planificar algoritmos antes de programarlos y facilita entender la lógica sin errores de sintaxis."}
+{"prompt": "Explica qué es un operador lógico.", "response": "Un operador lógico permite combinar condiciones, por ejemplo AND, OR y NOT."}
+{"prompt": "Explica qué es un operador relacional.", "response": "Son comparaciones como >, <, ==, != que permiten evaluar relaciones entre valores."}
+{"prompt": "¿Qué es una función?", "response": "Una función es un bloque de código reutilizable que realiza una tarea específica y puede recibir datos y devolver resultados."}
+{"prompt": "¿Qué es un parámetro?", "response": "Es un valor que una función necesita para realizar su tarea."}
+{"prompt": "¿Qué es un retorno en una función?", "response": "Es el valor que una función envía de vuelta después de terminar su ejecución."}
+{"prompt": "¿Qué es un algoritmo recursivo?", "response": "Es un algoritmo que se llama a sí mismo para resolver un problema dividiéndolo en partes más simples."}
+{"prompt": "Ejemplo simple de recursividad.", "response": "El factorial n! se calcula como n * factorial(n - 1) hasta llegar a 1."}
+{"prompt": "¿Qué es una matriz?", "response": "Una matriz es una estructura bidimensional formada por filas y columnas."}
+{"prompt": "¿Qué es una pila (stack)?", "response": "Es una estructura de datos LIFO donde el último elemento en entrar es el primero en salir."}
+{"prompt": "¿Qué es una cola (queue)?", "response": "Es una estructura de datos FIFO donde el primer elemento en entrar es el primero en salir."}
+{"prompt": "¿Qué es la complejidad temporal?", "response": "Es una medida que indica cuánto tiempo tarda un algoritmo en ejecutarse según el tamaño de la entrada."}
+{"prompt": "¿Qué es la complejidad espacial?", "response": "Indica cuánta memoria necesita un algoritmo para ejecutarse."}
+{"prompt": "¿Qué es Big O?", "response": "Big O es una notación que describe el rendimiento y crecimiento de un algoritmo, por ejemplo O(n), O(log n), O(n²)."}
+{"prompt": "Ejemplo de Big O en la vida real.", "response": "Si revisas una lista de 1000 elementos uno por uno, tu tiempo crece proporcionalmente a la cantidad de elementos: O(n)."}
+{"prompt": "¿Qué es un árbol binario?", "response": "Es una estructura donde cada nodo puede tener hasta dos hijos: izquierdo y derecho."}
+{"prompt": "¿Qué es un nodo en estructuras de datos?", "response": "Un nodo es una unidad que contiene un valor y enlaces a otros nodos."}
+{"prompt": "¿Qué es un grafo?", "response": "Es una estructura formada por nodos conectados mediante aristas, útil para representar redes."}
+{"prompt": "¿Qué es DFS?", "response": "DFS es un recorrido en profundidad donde se exploran primero los caminos largos antes de retroceder."}
+{"prompt": "¿Qué es BFS?", "response": "BFS es un recorrido en anchura donde se visitan primero los nodos vecinos más cercanos."}
+{"prompt": "¿Qué es programación estructurada?", "response": "Es un paradigma que organiza el código en bloques lógicos con estructuras como secuencias, selecciones y repeticiones."}
+{"prompt": "¿Qué es un bug?", "response": "Un bug es un error en el código que provoca un comportamiento inesperado."}
+{"prompt": "¿Qué es depurar?", "response": "Depurar es el proceso de encontrar y corregir errores en un programa."}
