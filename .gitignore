@@ -1,2 +1,7 @@
 datasetCaras/Haarcascade/fotos/julian.zip
 datasetCaras/Haarcascade/fotos/julian/
+venv
+proyectosFinal/LoRA/env_lora
+proyectosFinal/loRA/__pycache__/
+__pycache__/
+LoRA/README_LORA_CPU.md
